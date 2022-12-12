@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript and Next.js**
 
-- 📫 How to reach me **Lars Poetzel@gmail.com**
+- 📫 How to reach me **Lars.poetzel@gmail.com**
 
  <br>
 
