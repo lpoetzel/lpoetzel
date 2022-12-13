@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript and Next.js**
 
-- 📫 My Website **https://github.com/lpoetzel**
+- 📫 My Website **https://lars-poetzel.netlify.app/**
 
  <br>
 
